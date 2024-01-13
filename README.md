@@ -11,9 +11,9 @@
 ## I am a reader, learner, and a cybersecurity enthusiast!
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning everything 😅
-- 🥅 2022 Goals: Learn more about cybersecurity
-- ⚡ Fun fact: I love to play guitar and basketball
+- 🌱 I’m currently learning Networking 😅
+- 🥅 2024 Goals: Learn more about cybersecurity
+- ⚡ Fun fact: I used to play guitar in a hard rock band 😆
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
 ### Connect with me:
