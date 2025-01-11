@@ -11,7 +11,7 @@
 ## I am a reader, learner, and a cybersecurity enthusiast!
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning Networking 😅
+- 🌱 I’m currently learning Hardware Programming 😅
 - 🥅 2025 Goals: Learn more about Hardware Security
 - ⚡ Fun fact: I used to play guitar in a hard rock band 😆
 
