@@ -12,7 +12,7 @@
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning Networking 😅
-- 🥅 2024 Goals: Learn more about cybersecurity
+- 🥅 2025 Goals: Learn more about Hardware Security
 - ⚡ Fun fact: I used to play guitar in a hard rock band 😆
 
 
